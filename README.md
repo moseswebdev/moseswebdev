@@ -4,14 +4,8 @@
 **Graduate Scholar at The Catholic University of America**  
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
-```python
-moses = {
-    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
-    "certifications": 60,
-    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],
-    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],
-    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]
-}
+printf '## 🚀 What I Do\n\n```python\nmoses = {\n    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],\n    "certifications": 60,\n    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],\n    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],\n    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]\n}\n```\n' >>
+
 ## 🎖️ Certifications & Achievements
 
 ### AI & Machine Learning
