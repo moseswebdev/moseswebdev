@@ -9,7 +9,7 @@
 
 ## 🚀 What I Do
 
-python
+```python
 moses = {
     "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
     "certifications": 60,
