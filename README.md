@@ -8,8 +8,13 @@
 
 
 ## 🚀 What I Do
+# Open nano editor
+nano README.md
 
-   python
+# Paste this EXACTLY (including the triple backticks):
+## 🚀 What I Do
+
+```python
 moses = {
     "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
     "certifications": 60,
@@ -17,7 +22,6 @@ moses = {
     "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],
     "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]
 }
-
 ## 🎖️ Certifications & Achievements
 
 ### AI & Machine Learning
