@@ -5,7 +5,7 @@
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
 
----
+
 
 ## 🚀 What I Do
 
