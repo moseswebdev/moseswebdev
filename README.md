@@ -4,15 +4,10 @@
 **Graduate Scholar at The Catholic University of America**  
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
-echo -e '## 🚀 What I Do\n\n```python
-moses = {
-    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
-    "certifications": 60,
-    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],
-    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],
-    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]
-}
-```\n' | cat >>
+cd moseswebdev
+rm -f README.md
+
+printf '## 🚀 What I Do\n\n```python\nmoses = {\n    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],\n    "certifications": 60,\n    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],\n    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],\n    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]\n}\n```\n\n## 🎖️ Certifications & Achievements\n\n### AI & Machine Learning\n- **Microsoft Azure AI Engineer** | Advanced AI implementations\n- **AWS Machine Learning Specialist** | Cloud-based ML solutions\n- **CompTIA Data+ Certified** | Data analysis and management\n- **60+ AI/ML Certifications** | Microsoft, AWS, Oracle, Databricks\n\n### Publications\n- **"Mathematical Analysis of Hallucination Dynamics in LLMs"** | Peer-reviewed\n- **"Multimodal Medical Imaging for Ocular Disease Recognition"** | Deep learning research\n' >> README.md
 
 ## 🎖️ Certifications & Achievements
 
