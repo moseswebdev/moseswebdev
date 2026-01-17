@@ -5,15 +5,19 @@
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
 
-
-
-## 🚀 What I Do
-# Open nano editor
 nano README.md
 
 # Paste this EXACTLY (including the triple backticks):
 ## 🚀 What I Do
-printf '## 🚀 What I Do\n\n```python\nmoses = {\n    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],\n    "certifications": 60,\n    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],\n    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],\n    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]\n}\n```\n' >> README.md
+
+```python
+moses = {
+    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
+    "certifications": 60,
+    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],
+    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],
+    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]
+}
 ## 🎖️ Certifications & Achievements
 
 ### AI & Machine Learning
