@@ -4,12 +4,6 @@
 **Graduate Scholar at The Catholic University of America**  
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
-
-nano README.md
-
-# Paste this EXACTLY (including the triple backticks):
-## 🚀 What I Do
-
 ```python
 moses = {
     "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
