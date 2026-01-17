@@ -4,9 +4,15 @@
 **Graduate Scholar at The Catholic University of America**  
 *Pursuing MS in Computer Engineering | Data Analytics Concentration*  
 📍 Washington, DC | 🔗 [LinkedIn](https://linkedin.com/in/moseskiprono1 )
-cd moseswebdev
-rm -f README.md
-curl -s https://raw.githubusercontent.com/moseswebdev/moseswebdev/main/README.md -o README.md
+```python
+moses = {
+    "expertise": ["AI/ML", "Medical Imaging", "Data Engineering", "Cloud Computing"],
+    "certifications": 60,
+    "languages": ["Python", "SQL", "R", "JavaScript", "Chinese", "Kiswahili"],
+    "tools": ["TensorFlow", "PyTorch", "AWS", "Azure", "Tableau", "SPSS"],
+    "interests": ["Deep Learning", "Computer Vision", "Healthcare AI", "Ethics in AI"]
+}
+```
 ## 🎖️ Certifications & Achievements
 
 ### AI & Machine Learning
