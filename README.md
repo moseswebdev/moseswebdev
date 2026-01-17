@@ -1,5 +1,5 @@
 # Clone the NEW profile repository
-git clone https://github.com/moseswebdev/moseswebdev.git
+git clone https://github.com/moseswebdev/moseswebdev.git 
 cd moseswebdev
 
 # DELETE the existing README.md
